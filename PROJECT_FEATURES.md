@@ -143,3 +143,7 @@ Allows customers to dynamically track any transport service (flights, buses, tra
 An emergency feature allowing passengers to instantly share live locations and triggers distress alerts to predefined trusted contacts.
 **Status: Implemented**
 
+## T-19: FR-CUSTOMER-Live Journey Feedback
+Enables passengers to submit real-time ratings and reports regarding transport comfort, speed, or issues mid-journey.
+**Status: Implemented**
+
