@@ -23,3 +23,7 @@ This component manages backend algorithms for tracking international flight path
 This feature creates a secure storage section within the profile where customers can upload, save, and access passports and visas.
 **Status: Implemented**
 
+## T-08: FR-CUSTOMER-Basic Live Tracking
+This feature provides basic live trip tracking functionality, displaying updates for active transportation bookings.
+**Status: Implemented**
+
