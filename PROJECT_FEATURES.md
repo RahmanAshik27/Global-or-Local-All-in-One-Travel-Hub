@@ -67,3 +67,7 @@ Establishes the visual identity, responsive layout grids, dark/light theme syste
 Defines policies for automated database backups, log retention, data archiving, and compliance with privacy regulations.
 **Status: Implemented**
 
+## NFR-09: System Architecture
+Defines the microservices system topology, API gateway integrations, and communication protocols between backend modules.
+**Status: Implemented**
+
