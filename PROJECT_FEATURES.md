@@ -1,1 +1,5 @@
 # Implemented Features
+## T-01: FR-ADMIN/AGENCY/CUSTOMER-Signup & Authentication
+This feature handles user registration and authentication for Admins, Agencies, and Customers with secure credential storage.
+**Status: Implemented**
+
