@@ -131,3 +131,7 @@ A scheduling matrix tool that lets agency administrators deploy and preview tran
 Allows agencies to create time-critical discount campaigns on low-occupancy routes with live expiration countdowns.
 **Status: Implemented**
 
+## T-16: FR-AGENCY-Agency Fleet Radar
+This feature provides travel agencies with a real-time radar dashboard to monitor their entire fleet of vehicles on an active map.
+**Status: Implemented**
+
