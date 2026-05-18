@@ -39,3 +39,7 @@ This requirement ensures data encryption, secure APIs, and multi-factor authenti
 This requirement ensures data encryption, secure APIs, and multi-factor authentication (MFA) across the Travel Hub.
 **Status: Implemented**
 
+## NFR-02: Performance
+Specifies system responsiveness goals, including page load times under 2 seconds and concurrent request handling limits.
+**Status: Implemented**
+
