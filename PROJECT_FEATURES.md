@@ -63,3 +63,7 @@ Defines standard accessibility compliance rules (WCAG 2.1) and mandates an intui
 Establishes the visual identity, responsive layout grids, dark/light theme systems, and design system constraints for the application.
 **Status: Implemented**
 
+## NFR-08: Data Management
+Defines policies for automated database backups, log retention, data archiving, and compliance with privacy regulations.
+**Status: Implemented**
+
