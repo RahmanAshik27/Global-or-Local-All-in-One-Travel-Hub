@@ -71,3 +71,11 @@ Defines policies for automated database backups, log retention, data archiving, 
 Defines the microservices system topology, API gateway integrations, and communication protocols between backend modules.
 **Status: Implemented**
 
+## T-23: FR-CUSTOMER-Route Suggestion AI
+This feature uses AI algorithms to recommend the most optimal, cost-effective, and fastest travel routes to customers based on historical data.
+**Status: Implemented**
+
+## T-23: FR-CUSTOMER-Route Suggestion AI
+This feature uses AI algorithms to recommend the most optimal, cost-effective, and fastest travel routes to customers based on historical data.
+**Status: Implemented**
+
