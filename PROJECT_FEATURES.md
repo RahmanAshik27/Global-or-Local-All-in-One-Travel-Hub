@@ -83,3 +83,7 @@ This feature uses AI algorithms to recommend the most optimal, cost-effective, a
 Provides travel agencies with advanced BI dashboards, sales analytics, customer demographics, and financial reporting tools.
 **Status: Implemented**
 
+## T-25: FR-CUSTOMER-Smart Delay Predictor
+Utilizes machine learning models to forecast flight and train delays based on weather patterns and seasonal traffic logs.
+**Status: Implemented**
+
