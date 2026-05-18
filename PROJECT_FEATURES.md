@@ -27,3 +27,15 @@ This feature creates a secure storage section within the profile where customers
 This feature provides basic live trip tracking functionality, displaying updates for active transportation bookings.
 **Status: Implemented**
 
+## NFR-01: Security
+This requirement ensures data encryption, secure APIs, and multi-factor authentication (MFA) across the Travel Hub.
+**Status: Implemented**
+
+## NFR-01: Security
+This requirement ensures data encryption, secure APIs, and multi-factor authentication (MFA) across the Travel Hub.
+**Status: Implemented**
+
+## NFR-01: Security
+This requirement ensures data encryption, secure APIs, and multi-factor authentication (MFA) across the Travel Hub.
+**Status: Implemented**
+
