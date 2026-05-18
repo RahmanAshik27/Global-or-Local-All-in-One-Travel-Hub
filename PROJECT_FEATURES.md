@@ -111,3 +111,7 @@ A customer portal enabling passengers to change boarding locations, generate dig
 This feature allows customers to view a real-time layout grid of transport seating and select their preferred seats visually.
 **Status: Implemented**
 
+## T-10: FR-AGENCY-Manual Seat Block
+Enables travel agencies to manually block off specific seat rows or sections for group bookings or maintenance schedules.
+**Status: Implemented**
+
