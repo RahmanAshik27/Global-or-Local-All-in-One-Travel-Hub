@@ -19,3 +19,7 @@ This feature builds a user interface grid allowing customers to compare up to fo
 This component manages backend algorithms for tracking international flight paths, pricing, and availability matrices.
 **Status: Implemented**
 
+## T-07: FR-CUSTOMER-Document Vault
+This feature creates a secure storage section within the profile where customers can upload, save, and access passports and visas.
+**Status: Implemented**
+
