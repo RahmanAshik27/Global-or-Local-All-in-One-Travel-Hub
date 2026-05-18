@@ -135,3 +135,7 @@ Allows agencies to create time-critical discount campaigns on low-occupancy rout
 This feature provides travel agencies with a real-time radar dashboard to monitor their entire fleet of vehicles on an active map.
 **Status: Implemented**
 
+## T-17: FR-CUSTOMER-Universal Live Tracking
+Allows customers to dynamically track any transport service (flights, buses, trains) with live ETAs and map coordinates.
+**Status: Implemented**
+
