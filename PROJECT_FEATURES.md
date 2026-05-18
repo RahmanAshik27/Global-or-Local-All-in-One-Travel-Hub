@@ -139,3 +139,7 @@ This feature provides travel agencies with a real-time radar dashboard to monito
 Allows customers to dynamically track any transport service (flights, buses, trains) with live ETAs and map coordinates.
 **Status: Implemented**
 
+## T-18: FR-CUSTOMER-SOS Safety Buddy
+An emergency feature allowing passengers to instantly share live locations and triggers distress alerts to predefined trusted contacts.
+**Status: Implemented**
+
