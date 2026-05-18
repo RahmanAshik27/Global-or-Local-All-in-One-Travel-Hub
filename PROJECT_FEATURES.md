@@ -59,3 +59,7 @@ Defines Mean Time Between Failures (MTBF) and fault tolerance limits to guarante
 Defines standard accessibility compliance rules (WCAG 2.1) and mandates an intuitive UI navigation experience for all user groups.
 **Status: Implemented**
 
+## NFR-07: Design / UI
+Establishes the visual identity, responsive layout grids, dark/light theme systems, and design system constraints for the application.
+**Status: Implemented**
+
