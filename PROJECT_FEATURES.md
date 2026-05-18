@@ -107,3 +107,7 @@ Allows users to seamlessly modify booking dates, switch transport modes, or canc
 A customer portal enabling passengers to change boarding locations, generate digital passes, and access check-in instructions.
 **Status: Implemented**
 
+## T-09: FR-CUSTOMER-Interactive Seat Grid
+This feature allows customers to view a real-time layout grid of transport seating and select their preferred seats visually.
+**Status: Implemented**
+
