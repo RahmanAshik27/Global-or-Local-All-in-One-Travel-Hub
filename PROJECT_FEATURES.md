@@ -127,3 +127,7 @@ Generates secure, encrypted QR codes on boarding passes to streamline passenger 
 A scheduling matrix tool that lets agency administrators deploy and preview transport route availabilities up to 10 days in advance.
 **Status: Implemented**
 
+## T-15: FR-AGENCY-Dynamic Flash Sale
+Allows agencies to create time-critical discount campaigns on low-occupancy routes with live expiration countdowns.
+**Status: Implemented**
+
