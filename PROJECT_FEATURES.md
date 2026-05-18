@@ -151,3 +151,7 @@ Enables passengers to submit real-time ratings and reports regarding transport c
 A collaborative reporting module for customers to claim lost belongings and for agencies to log recovered luggage items.
 **Status: Implemented**
 
+## T-21: FR-CUSTOMER-Automated Journey Alerts
+Triggers automated push notifications regarding boarding times, delay modifications, platform updates, and route changes.
+**Status: Implemented**
+
