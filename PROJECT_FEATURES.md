@@ -99,3 +99,7 @@ An AI-powered pricing system that automatically scales ticket costs based on use
 An automated system that processes reported lost items and matches them with found logs using keyword and image analysis.
 **Status: Implemented**
 
+## T-29: FR-CUSTOMER-Smart Change-of-Plan (Flexible Ticket)
+Allows users to seamlessly modify booking dates, switch transport modes, or cancel flights with dynamically calculated minimal fees.
+**Status: Implemented**
+
