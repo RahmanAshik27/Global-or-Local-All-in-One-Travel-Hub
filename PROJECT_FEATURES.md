@@ -11,3 +11,7 @@ This component builds the central dashboard for platform administrators to manag
 This feature creates a multi-parameter search mechanism allowing customers to find transport, flights, and hotels in one hub.
 **Status: Implemented**
 
+## T-05: FR-CUSTOMER-4-Way Comparison Grid
+This feature builds a user interface grid allowing customers to compare up to four travel routes or packages side-by-side.
+**Status: Implemented**
+
