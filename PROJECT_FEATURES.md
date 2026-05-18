@@ -115,3 +115,7 @@ This feature allows customers to view a real-time layout grid of transport seati
 Enables travel agencies to manually block off specific seat rows or sections for group bookings or maintenance schedules.
 **Status: Implemented**
 
+## T-11: FR-CUSTOMER-Multi-City "Joint" Booking
+Allows users to construct complex multi-destination itineraries and purchase all tickets under a single consolidated checkout process.
+**Status: Implemented**
+
