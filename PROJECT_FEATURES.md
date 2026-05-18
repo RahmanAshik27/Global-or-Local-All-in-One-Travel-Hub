@@ -43,3 +43,7 @@ This requirement ensures data encryption, secure APIs, and multi-factor authenti
 Specifies system responsiveness goals, including page load times under 2 seconds and concurrent request handling limits.
 **Status: Implemented**
 
+## NFR-03: Scalability
+Defines the system's capacity to scale horizontally and vertically during peak travel seasons and heavy promotional periods.
+**Status: Implemented**
+
