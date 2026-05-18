@@ -147,3 +147,7 @@ An emergency feature allowing passengers to instantly share live locations and t
 Enables passengers to submit real-time ratings and reports regarding transport comfort, speed, or issues mid-journey.
 **Status: Implemented**
 
+## T-20: FR-CUSTOMER/AGENCY-Lost & Found Portal
+A collaborative reporting module for customers to claim lost belongings and for agencies to log recovered luggage items.
+**Status: Implemented**
+
