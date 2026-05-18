@@ -51,3 +51,7 @@ Defines the system's capacity to scale horizontally and vertically during peak t
 Ensures the system guarantees a 99.9% uptime and specifies disaster recovery mechanisms for continuous operations.
 **Status: Implemented**
 
+## NFR-05: Reliability
+Defines Mean Time Between Failures (MTBF) and fault tolerance limits to guarantee correct data processing for booking transactions.
+**Status: Implemented**
+
