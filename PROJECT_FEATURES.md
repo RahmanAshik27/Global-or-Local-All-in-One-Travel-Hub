@@ -91,3 +91,7 @@ Utilizes machine learning models to forecast flight and train delays based on we
 An administrative tool that visualizes platform revenue distributions and booking densities on an interactive global map.
 **Status: Implemented**
 
+## T-27: FR-AGENCY-Dynamic Pricing AI
+An AI-powered pricing system that automatically scales ticket costs based on user demand, seat availability, and remaining time.
+**Status: Implemented**
+
