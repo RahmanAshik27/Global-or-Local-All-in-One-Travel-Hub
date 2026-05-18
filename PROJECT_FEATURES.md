@@ -47,3 +47,7 @@ Specifies system responsiveness goals, including page load times under 2 seconds
 Defines the system's capacity to scale horizontally and vertically during peak travel seasons and heavy promotional periods.
 **Status: Implemented**
 
+## NFR-04: Availability
+Ensures the system guarantees a 99.9% uptime and specifies disaster recovery mechanisms for continuous operations.
+**Status: Implemented**
+
