@@ -123,3 +123,7 @@ Allows users to construct complex multi-destination itineraries and purchase all
 Generates secure, encrypted QR codes on boarding passes to streamline passenger check-ins and platform ticket validation.
 **Status: Implemented**
 
+## T-14: FR-AGENCY-10-Day Future Scheduler
+A scheduling matrix tool that lets agency administrators deploy and preview transport route availabilities up to 10 days in advance.
+**Status: Implemented**
+
