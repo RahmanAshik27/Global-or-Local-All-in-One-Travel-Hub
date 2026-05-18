@@ -103,3 +103,7 @@ An automated system that processes reported lost items and matches them with fou
 Allows users to seamlessly modify booking dates, switch transport modes, or cancel flights with dynamically calculated minimal fees.
 **Status: Implemented**
 
+## T-30: FR-CUSTOMER-Self-Service Boarding Point Portal
+A customer portal enabling passengers to change boarding locations, generate digital passes, and access check-in instructions.
+**Status: Implemented**
+
