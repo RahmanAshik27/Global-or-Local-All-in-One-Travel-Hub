@@ -7,3 +7,7 @@ This feature handles user registration and authentication for Admins, Agencies, 
 This component builds the central dashboard for platform administrators to manage users, roles, and global configurations.
 **Status: Implemented**
 
+## T-04: FR-CUSTOMER-Hybrid Search Hub
+This feature creates a multi-parameter search mechanism allowing customers to find transport, flights, and hotels in one hub.
+**Status: Implemented**
+
