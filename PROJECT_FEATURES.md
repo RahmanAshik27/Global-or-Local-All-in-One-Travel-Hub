@@ -15,3 +15,7 @@ This feature creates a multi-parameter search mechanism allowing customers to fi
 This feature builds a user interface grid allowing customers to compare up to four travel routes or packages side-by-side.
 **Status: Implemented**
 
+## T-06: FR-CUSTOMER-Global Air Logic
+This component manages backend algorithms for tracking international flight paths, pricing, and availability matrices.
+**Status: Implemented**
+
