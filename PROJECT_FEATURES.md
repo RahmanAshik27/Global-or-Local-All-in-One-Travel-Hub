@@ -119,3 +119,7 @@ Enables travel agencies to manually block off specific seat rows or sections for
 Allows users to construct complex multi-destination itineraries and purchase all tickets under a single consolidated checkout process.
 **Status: Implemented**
 
+## T-13: FR-CUSTOMER-Digital QR Ticket Generation
+Generates secure, encrypted QR codes on boarding passes to streamline passenger check-ins and platform ticket validation.
+**Status: Implemented**
+
