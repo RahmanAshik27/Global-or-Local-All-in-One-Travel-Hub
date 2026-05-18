@@ -87,3 +87,7 @@ Provides travel agencies with advanced BI dashboards, sales analytics, customer 
 Utilizes machine learning models to forecast flight and train delays based on weather patterns and seasonal traffic logs.
 **Status: Implemented**
 
+## T-26: FR-ADMIN-Global Revenue Heatmap
+An administrative tool that visualizes platform revenue distributions and booking densities on an interactive global map.
+**Status: Implemented**
+
