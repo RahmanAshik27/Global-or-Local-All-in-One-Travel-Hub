@@ -79,3 +79,7 @@ This feature uses AI algorithms to recommend the most optimal, cost-effective, a
 This feature uses AI algorithms to recommend the most optimal, cost-effective, and fastest travel routes to customers based on historical data.
 **Status: Implemented**
 
+## T-24: FR-AGENCY-Agency Business Intelligence
+Provides travel agencies with advanced BI dashboards, sales analytics, customer demographics, and financial reporting tools.
+**Status: Implemented**
+
