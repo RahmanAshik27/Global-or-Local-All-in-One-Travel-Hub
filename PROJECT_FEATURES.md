@@ -95,3 +95,7 @@ An administrative tool that visualizes platform revenue distributions and bookin
 An AI-powered pricing system that automatically scales ticket costs based on user demand, seat availability, and remaining time.
 **Status: Implemented**
 
+## T-28: FR-ADMIN-Lost & Found Automated Match
+An automated system that processes reported lost items and matches them with found logs using keyword and image analysis.
+**Status: Implemented**
+
