@@ -155,3 +155,7 @@ A collaborative reporting module for customers to claim lost belongings and for 
 Triggers automated push notifications regarding boarding times, delay modifications, platform updates, and route changes.
 **Status: Implemented**
 
+## T-22: FR-CUSTOMER-Hub-to-Destination Proximity
+Utilizes location proximity services to calculate distances and walking/driving times from arrival hubs to final hotel destinations.
+**Status: Implemented**
+
