@@ -55,3 +55,7 @@ Ensures the system guarantees a 99.9% uptime and specifies disaster recovery mec
 Defines Mean Time Between Failures (MTBF) and fault tolerance limits to guarantee correct data processing for booking transactions.
 **Status: Implemented**
 
+## NFR-06: Usability
+Defines standard accessibility compliance rules (WCAG 2.1) and mandates an intuitive UI navigation experience for all user groups.
+**Status: Implemented**
+
